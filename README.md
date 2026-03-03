@@ -58,6 +58,20 @@ This project reframes labor allocation as a trade-off between **Mathematical Eff
 
 ---
 
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/lanvien/labor-allocation-optimization-MILP.git](https://github.com/lanvien/labor-allocation-optimization-MILP.git) 
+
+2. **Install dependencies:**
+pip install -r requirements.txt
+
+3. **Run the analysis:**
+Open optimization_research.ipynb in Jupyter Notebook or Google Colab and run all cells.
+
+---
+
 ### 🧰 Tech Stack
 * **Language:** `Python 3.x`
 * **Optimization:** `PuLP` (MILP Solver)
